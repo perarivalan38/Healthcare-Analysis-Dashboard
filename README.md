@@ -29,7 +29,7 @@ This project presents a comprehensive healthcare analytics dashboard built using
 
 ## 📸 Dashboard Preview
 
-![Dashboard](C:\Users\nandh\OneDrive\Pictures\Screenshots\dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 📂 Files Included
 
